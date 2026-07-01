@@ -1,0 +1,35 @@
+# Maven
+target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# STS
+.apt_generated/
+.factorypath
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Tomcat
+work/
+temp/
+
+# Generated files
+bin/
